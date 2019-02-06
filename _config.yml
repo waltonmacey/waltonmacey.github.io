@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Walton Macey"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Walton Macey"
-description              : &description "Master's in Computer Science"
-url                      : https://waltonmacey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "waltonmacey.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Walton Macey"
- # avatar           : "profile.png"
-  bio              : "Master's in Computer Science, Bachelor's in Wireless Software Engineering"
-  location         : "Nashville, TN"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
- # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "walton.macey@gmail.com
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "waltonmacey"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/waltonmacey"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
- # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@waltonmacey"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -306,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
