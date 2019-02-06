@@ -11,9 +11,9 @@ title                    : "Walton Macey"
 title_separator          : "-"
 name                     : &name "Walton Macey"
 description              : &description "Master's in Computer Science"
-url                      : https://wallymacey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://waltonmacey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wallymacey.github.io"
+repository               : "waltonmacey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
