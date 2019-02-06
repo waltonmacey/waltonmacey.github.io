@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Walton Macey"
-  avatar           : "profile.png"
+ # avatar           : "profile.png"
   bio              : "Master's in Computer Science, Bachelor's in Wireless Software Engineering"
   location         : "Nashville, TN"
   employer         :
