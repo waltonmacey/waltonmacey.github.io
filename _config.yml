@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Walton Macey"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Master's in Computer Science, Bachelor's in Wireless Software Engineering"
+  location         : "Nashville, TN"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+ # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "walton.macey@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "waltonmacey"
   google_plus      :
   keybase          :
   instagram        :
