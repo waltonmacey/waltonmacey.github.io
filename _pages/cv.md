@@ -16,15 +16,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2016 & Spring 2018: Teaching Assistant
+  * University of Tennessee, Knoxville
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2017: Research Assistant
+  * University of Tennessee, Knoxville
+  * Duties included: Merging pull requests
+  
+* 2015: Data Analytics Intern
+  * The Trade Desk
+  * Duties included: Merging pull requests
+  
+* 2012: Maintenance Engineering Intern
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+* 2011: Process Engineering Intern
+  * Github University
+  * Duties included: Merging pull requests
   
 Skills
 ======
