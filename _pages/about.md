@@ -8,7 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+From Nashville, TN. Attended Auburn University pursuing a degree in Industrial and Systems Engineering. After two internship and 5 semesters of classes, decided to switch to more challenging area of interest and something I had very little knowledge of, software engineering. Auburn offers a unique degree, at the time the only one of its kind in the country Wireless Software Engineering. Link and quote about what that is.
+Graduated in 2016 and continued my education as a candidate for a Master’s in Computer Science with coursework focusing in data science. During my time at UTK, worked as a teaching assistant for two classes. Link to what the two classes where and description of what they were like. Also my mentor and advisor (link and description about his background and expertise) connected me to two research opportunities at ORNL. First ACME now called ESM link to github and site. My work there. Second ESTSC and scitech connect archeology project, precursor to DOECode. Description of basic goal and work there, assist in digitizing decades of the DOE oldest scientific software packages.
+
+Graduate School and Recent Experience
+======
+
+Grad School what it meant to me and exposed me to. Some highlights in coursework.
+
+Final Project PiLOT. Master’s committee, link to there respective websites. Presented on research and findings gathered in the two opportunities at ORNL. Link to github of presentation, code and report. Something fancy to show data basics 
+
+Conclusion- looking to further develop my skills and knowledge as a Software Engineer and Data Scientist. I feel that I have equipped myself to be able to quickly learn and adapt to any team/methodology/software/language/expertise such that I can contribute early and continue to develop and master whatever skills may be needed in this technology career field.
+
+Personal Projects
+======
+
+Personal Projects
+
+Fantasy Football/Sports
+Started with spreadsheets, lots of reading and strategizing. Sought out ways to improve my odds and give myself an advantage. 
+Data Gathering, Cleaning, Model creating. Early stuff in high school, spread sheets assigning values to traits and variables and hand creating an equation to best calculate an estimate of player future success/potential/performance
+
+Currently, still something I do for fun. Create a little more sophisticated models to utilize historical trends and data to best predict future value or performance of players.
+
+Movies
+Consider myself a movie buff/appreciate bad movies. I pride myself on being the friend that can best help friends and family select a movie that they would enjoy.
+
+Work on application that would also do that job. In the moment, movie recommender engine.
+
+
+School/Work Projects
+
+TD manual classifier extension
+
+DataMining medical journal sentence classifier
+
 
 A data-driven personal website
 ======
