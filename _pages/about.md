@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 From Nashville, TN. Attended Auburn University pursuing a degree in Industrial and Systems Engineering. After two internship and 5 semesters of classes, decided to switch to more challenging area of interest and something I had very little knowledge of, software engineering. Auburn offers a unique degree, at the time the only one of its kind in the country Wireless Software Engineering. Link and quote about what that is.
+
+
 Graduated in 2016 and continued my education as a candidate for a Master’s in Computer Science with coursework focusing in data science. During my time at UTK, worked as a teaching assistant for two classes. Link to what the two classes where and description of what they were like. Also my mentor and advisor (link and description about his background and expertise) connected me to two research opportunities at ORNL. First ACME now called ESM link to github and site. My work there. Second ESTSC and scitech connect archeology project, precursor to DOECode. Description of basic goal and work there, assist in digitizing decades of the DOE oldest scientific software packages.
 
 Graduate School and Recent Experience
