@@ -29,11 +29,11 @@ Work experience
   * Duties included: Merging pull requests
   
 * 2012: Maintenance Engineering Intern
-  * Github University
+  * Mando America Corporation
   * Duties included: Merging pull requests
   
 * 2011: Process Engineering Intern
-  * Github University
+  * Mando America Corporation
   * Duties included: Merging pull requests
   
 Skills
