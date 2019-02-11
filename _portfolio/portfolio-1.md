@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Sample Portfolio as MD file"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
