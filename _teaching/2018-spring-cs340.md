@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "Knoxville, TN"
 ---
 
-Teaching Assistant for software engineering course focusing on team focused, iterative, software development projects.
+Teaching Assistant for software engineering course focusing on team oriented, iterative, software development projects.
 
 Course Syllabus
 ======
