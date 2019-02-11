@@ -16,11 +16,11 @@ Systems Programming Course Syllabus
 ======
 In this course, CS360, we devote our attention to the principles and methodologies of operating system, a computer tool that is indispensable to today's society. The name of this course, Systems Programming, tells the uniqueness of this special kind of programming. For details about such uniqueness, we have an entire semester to elaborate. At the same time, systems programming is also inherently related to the latest development of open source movement in the field. Here, I would like to emphasize that CS360 makes a great contribution towards student learning outcomes, as outlined by our department's mission statement. Throughout this course, you need to pay special attention to the following capabilities:
 
-Analysis and Problem Solving - Students are able to use theoretical knowledge to critically analyze abstract programming problems to develop effective software solutions.
-Computer Skills - Students are able to understand and use a variety of software tools, operating systems, computer architectures, data structures, algorithms, and programming languages.
-Communication - Students are able to communicate ideas and technical concepts in a clear, concise, and meaningful way, both verbally and in writing.
-Social and Ethical Awareness - Students understand the impact of computers in society, the key ethical issues affecting computer science, and their own responsibilities as computer science professionals.
-Foundation for Continued Learning - Students have a solid understanding of the foundations of computer science, enabling them to pursue further learning as part of their continued professional development.
+1. Analysis and Problem Solving - Students are able to use theoretical knowledge to critically analyze abstract programming problems to develop effective software solutions.
+1. Computer Skills - Students are able to understand and use a variety of software tools, operating systems, computer architectures, data structures, algorithms, and programming languages.
+1. Communication - Students are able to communicate ideas and technical concepts in a clear, concise, and meaningful way, both verbally and in writing.
+1. Social and Ethical Awareness - Students understand the impact of computers in society, the key ethical issues affecting computer science, and their own responsibilities as computer science professionals.
+1. Foundation for Continued Learning - Students have a solid understanding of the foundations of computer science, enabling them to pursue further learning as part of their continued professional development.
 
 To become good general-purpose C programmers
 ======
