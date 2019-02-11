@@ -5,7 +5,7 @@ permalink: /publication/datarestructuring
 excerpt: 'This paper is about a proposal to restructure the data architecture of a portion of a large-scale climate simulation program.'
 date: 2016-05-16
 venue: 'SE4Science16'
-paperurl: 'http://academicpages.github.io/files/LRDA.pdf'
+paperurl: 'https://se4science.org/'
 citation: 'Macey, Walton. (2016). &quot;Live Restructuring of Data Architecture.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
