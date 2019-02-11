@@ -2,7 +2,7 @@
 title: "Computer Science 360: Systems Programing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2016-fall-comp360
 venue: "UTK Computer Science"
 date: 2016-09-01
 location: "Knoxville, TN"
