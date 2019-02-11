@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/datarestructuring
 excerpt: 'This paper is about a proposal to restructure the data architecture of a portion of a large-scale climate simulation program.'
 date: 2016-05-16
-venue: 'Journal 1'
+venue: 'SE4Science16'
 paperurl: 'http://academicpages.github.io/files/LRDA.pdf'
 citation: 'Macey, Walton. (2016). &quot;Live Restructuring of Data Architecture.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/LRDA.pdf)
+[Download paper here](http://waltonmacey.github.io/files/LRDA.pdf)
 
 In large-scale Earth System simulation codes, such as
 the Accelerated Climate Model for Energy (ACME),
@@ -51,6 +51,6 @@ restructuring and estimating both the effort it takes to
 restructure and the effort would save once the restruc-
 turing is implemented.
 
-[Download paper here](http://academicpages.github.io/files/LRDA.pdf)
+[Download paper here](http://waltonmacey.github.io/files/LRDA.pdf)
 
-Recommended citation: Macey, Walton. (2016). "Live Restructuring of Data Architecture" <i>Journal 1</i>. 1(1).
+Macey, Walton. (2016). "Live Restructuring of Data Architecture" <i>SE4Science16</i>. 1(1).
