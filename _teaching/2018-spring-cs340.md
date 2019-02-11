@@ -1,5 +1,5 @@
 ---
-title: "CS 340-Software Engineering"
+title: "Computer 340-Software Engineering"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2018-spring-cs340.md
