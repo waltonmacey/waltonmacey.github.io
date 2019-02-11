@@ -4,4 +4,5 @@ excerpt: "Final project for master's degree over research conducted at Oak Ridge
 collection: portfolio
 ---
 
-The github project repository for the project containing relevant scripts, reports and presentation materials can be found [here](https://github.com/ssc-oscar/curation).
+The github project repository for the project containing relevant scripts, reports and presentation materials
+can be found [here](https://github.com/ssc-oscar/curation/).
