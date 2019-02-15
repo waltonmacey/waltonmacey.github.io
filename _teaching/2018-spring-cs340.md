@@ -1,8 +1,8 @@
 ---
-title: "Computer 340-Software Engineering"
+title: "Computer Science 340-Software Engineering"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2018-spring-cs340.md
+permalink: /teaching/2018-spring-cs340
 venue: "UTK, Computer Science"
 date: 2018-01-01
 location: "Knoxville, TN"
