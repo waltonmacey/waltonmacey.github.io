@@ -2,7 +2,7 @@
 title: "Live Restructuring of Data Architecture"
 collection: publications
 permalink: /publication/datarestructuring
-excerpt: 'This paper is about a proposal to restructure the data architecture of a portion of a large-scale climate simulation program.'
+excerpt: 'This paper is about a proposal to restructure the data architecture of a portion of a large-scale climate simulation program. ACME (Accelerated Climate Model for Energy), now called Energy Exascale Earth System Model (E3SM) [Open Source Project Now Available](https://github.com/waltonmacey/E3SM).
 date: 2016-05-16
 venue: 'SE4Science16'
 paperurl: 'https://se4science.org/'
