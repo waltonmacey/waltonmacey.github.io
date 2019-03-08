@@ -1,18 +1,18 @@
 ---
-title: "Project in Lieu of Thesis: Curation and Refactoring of Legacy Software"
-excerpt: "Final project for master's degree over research conducted at Oak Ridge National Lab<br/><img src='/images/DoElogo.png'>"
+title: "Data Mining for Associations in Biomedical Literature"
+excerpt: "Final project for Data Mining Coursen<br/><img src='/images/DoElogo.png'>"
 collection: portfolio
 ---
 
-Often it is difficult to build upon and learn from another individual’s code and it is critical to have as much
-information as possible to build and use the program so that you can utilize or improve the software. Some of the greatest
-scientific minds have created software that often lays dormant, and has flawed or no metadata to assist in any future endeavors
-to utilize the software. Software curation involves maintaining, preserving and adding value to legacy research software. For
-legacy code still in active development, there are countless challenges to be faced in modifying and implementing changes
-especially for outdated or large scale scientific projects. Digital curation and data preservation are influenced by a desire to
-share with the wider research community. Necessary actions are required to promote curation and preservation of legacy
-programs especially in regards to national entities like the Department of Energy. We outline our approach to extending
-the lifetime of this software in two forms: shelved/dormant software and software that is still in active development
+Scientific literature relating to the biomedical sciences can typically be reproduced through a 
+comprehensive understanding of a papers four rhetorical elements: Data, Methods, Software and Findings. 
+While a scientific article is not necessarily structured with these 4 subtopics in mind, the DMSF information
+is essential to properly and efficiently recreate an accurate summarization of a papers results. In taking a 
+machine learning approach of extracting these essential aspects from a medical paper, the clear first step 
+involves classifying the body of the article into these 4 categories. With sentences properly classified 
+and grouped according to type, further semantic analysis and data mining can be more easily performed. For 
+example, techniques to summarize these elements would be more effective when aggregating like-minded sentences
+and providing a summary for each rhetorical category, rather than one summary attempt for entire text body.
 
 The github project repository for the project containing relevant scripts, reports and presentation materials
 can be found [here](https://github.com/ssc-oscar/curation/).
