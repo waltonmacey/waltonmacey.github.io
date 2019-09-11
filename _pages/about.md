@@ -8,21 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-From Nashville, TN. Attended Auburn University pursuing a degree in Industrial and Systems Engineering. After two internship and 5 semesters of classes, decided to switch to more challenging area of interest and something I had very little knowledge of, software engineering. Auburn offers a unique degree, at the time the only one of its kind in the country Wireless Software Engineering. Link and quote about what that is.
+Nashville Native
+Auburn University graduate with Bachelor’s Wireless Software Engineering
+University of Tennessee graduate with Master’s in Computer Science
 
-Graduated in 2016 and continued my education as a candidate for a Master’s in Computer Science with coursework focusing in data science at the University of Tennessee, Knoxville. During my time at UTK, worked as a teaching assistant for two classes. Link to what the two classes where and description of what they were like. Also my mentor and advisor (link and description about his background and expertise) connected me to two research opportunities at ORNL. First ACME now called ESM link to github and site. My work there. Second ESTSC and scitech connect archeology project, precursor to DOECode. Description of basic goal and work there, assist in digitizing decades of the DOE oldest scientific software packages.
+I attended Auburn University and was initially enrolled as an Industrial and Systems Engineering student. Encouraged to participate in a co-operative work study program to boost my resume, I interned for an automotive manufacturing company. After two work semesters and 2.5 years, I was feeling restless and felt that the work and responsibilities in an ISE career lacked the creativity and challenge I sought when I first pursued the engineering profession. The most significant takeaway from my time working in manufacturing engineering was the handful of times I was exposed to the software process behind some of the automation and robotics in the plant’s assembly lines. A combination of my experience with this internship and a desire to take on a new challenge led me to change my major to Wireless Software Engineering as I began my junior year.
+
+At the time, Auburn’s Wireless Engineering degree was the only one of its kind in the country, and offered two potential specialities, either a Hardware or Software option. DESCRIPTION OF WIRESWENG HERE. I believe my degree shared 85% of the Curriculum with Software engineering and the remaining 15% was all Electrical Engineering course work. 
+With absolutely no background in programming or computer science, the learning curve was steep at first, and I feel like was able to step up to the challenge. 
+
 
 Graduate School and Recent Experience
 ======
 
-Grad School what it meant to me and exposed me to. Some highlights in coursework.
+After graduating in 2016, I continued my education as a candidate for a Master’s in Computer Science with coursework focusing in data science at the University of Tennessee, Knoxville. During my time at UTK I worked as a teaching assistant for two courses, Systems Programing and Software Engineering. Systems Programming is a required Undergraduate course teaching principles and methodologies of operating systems with intense focus on biweekly labwork. Software Engineering is an elective computer science course focusing on team oriented, iterative, software development projects. 
 
-Final Project PiLOT. Master’s committee, link to there respective websites. Presented on research and findings gathered in the two opportunities at ORNL. Link to github of presentation, code and report. Something fancy to show data basics 
+Additionally, my advisor, [Dr. Audris Mockus](https://http://mockus.org//), connected me to two research opportunities at Oak Ridge National Lab. The first of which involved assisting an engineer working with Accelerated Climate Model for Energy (ACME now called ES3M) with his data restructuring efforts for the Department of Energy’s climate model still in active development after its creation over 20 years ago. The second opportunity was a digital archeology project for the ESTSC and OSTI, where I validated and audited the Department of Energy’s warehouse of old scientific software packages in preparation for digitization and open source sharing through the new initiative DOECode.
 
-Conclusion- looking to further develop my skills and knowledge as a Software Engineer and Data Scientist. I feel that I have equipped myself to be able to quickly learn and adapt to any team/methodology/software/language/expertise such that I can contribute early and continue to develop and master whatever skills may be needed in this technology career field.
+My experience with my coursework in curriculum in grad school was overwhelmingly positive. 
+Highlight some courses and experiences and 
 
-Personal Projects
+
+Significant Projects
 ======
+
+PiLoT
+
+Data Mining BioLiterature
 
 Personal Projects
 
