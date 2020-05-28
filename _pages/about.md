@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nashville Native
-Auburn University graduate with Bachelor’s Wireless Software Engineering
-University of Tennessee graduate with Master’s in Computer Science
+Nashville Native, Auburn University graduate with Bachelor’s of Wireless Software Engineering, University of Tennessee graduate with Master’s of Computer Science
 
 I attended Auburn University and was initially enrolled as an Industrial and Systems Engineering student. Encouraged to participate in a co-operative work study program to boost my resume, I interned for an automotive manufacturing company. After two work semesters and 2.5 years, I was feeling restless and felt that the work and responsibilities in an ISE career lacked the creativity and challenge I sought when I first pursued the engineering profession. The most significant takeaway from my time working in manufacturing engineering was the handful of times I was exposed to the software process behind some of the automation and robotics in the plant’s assembly lines. A combination of my experience with this internship and a desire to take on a new challenge led me to change my major to Wireless Software Engineering as I began my junior year.
 
